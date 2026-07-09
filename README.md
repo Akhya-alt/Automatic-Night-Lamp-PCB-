@@ -57,7 +57,7 @@ This repository documents my learning journey and serves as my first PCB design 
 | LED | 1 |
 | 100kΩ Resistor | 1 |
 | 220Ω Resistor | 1 |
-| Push Button | 1 |
+
 
 ---
 
